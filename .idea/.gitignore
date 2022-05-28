@@ -8,3 +8,15 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+#Gradle beginning
+.gradle
+**/build/
+#Idea Begginning
+.idea/
+*.iml
+out/
+gen/
+build/
+#Maven beginning
+target/
+
